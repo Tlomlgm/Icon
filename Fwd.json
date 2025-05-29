@@ -1,5 +1,5 @@
 {
-  "description" : "G&M",
+  "description" : "模块图标",
   "icons" : [
     {
       "name" : "韩剧",
@@ -10,5 +10,5 @@
       "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/meiju.png"
     }
   ],
-  "name" : "模块图标"
+  "name" : "G.m"
 }
