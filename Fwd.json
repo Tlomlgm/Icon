@@ -10,8 +10,12 @@
       "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/meiju.png"
     },
     {
-      "name" : " 日韩",
+      "name" : "日韩",
       "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/rihan.png"
+    },
+    {
+      "name" : "欧美",
+      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/oumei.png"
     }
   ],
   "name" : "G.m"
