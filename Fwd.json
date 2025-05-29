@@ -2,11 +2,11 @@
   "description" : "Forward.lcon",
   "icons" : [
     {
-      "name" : "1",
+      "name" : "韩剧",
       "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/hanju.png"
     },
     {
-      "name" : "2",
+      "name" : "美剧",
       "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/meiju.png"
     }
   ],
