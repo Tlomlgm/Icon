@@ -2,6 +2,10 @@
   "description" : "模块图标",
   "icons" : [
     {
+      "name" : " VOD",
+      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/VOD.png"
+    },
+    {
       "name" : "韩剧",
       "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/hanju.png"
     },
