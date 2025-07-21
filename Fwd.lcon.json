@@ -2,7 +2,15 @@
   "description" : "模块图标",
   "icons" : [
     {
-      "name" : " VOD",
+      "name" : "动漫剧情",
+      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/DMJJ.png"
+    },
+    {
+      "name" : "动漫电影",
+      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/DMDY.png"
+    },
+    {
+      "name" : "VOD",
       "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/VOD.png"
     },
     {
