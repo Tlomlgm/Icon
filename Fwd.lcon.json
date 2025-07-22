@@ -2,6 +2,10 @@
   "description" : "模块图标",
   "icons" : [
     {
+      "name" : "国产剧",
+      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/GCJ.png"
+    },
+    {
       "name" : "动漫剧情",
       "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/DMJJ.png"
     },
