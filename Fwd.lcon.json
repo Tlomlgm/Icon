@@ -1,66 +1,66 @@
 {
-  "description" : "模块图标",
-  "icons" : [
+  "name": "G.m",
+  "description": "模块图标",
+  "icons": [
     {
-      "name" : "国产剧",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/GCJ.png"
+      "name": "国产剧",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/GCJ.png"
     },
     {
-      "name" : "动漫剧情",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/DMJJ.png"
+      "name": "动漫剧情",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/DMJJ.png"
     },
     {
-      "name" : "动漫电影",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/DMDY.png"
+      "name": "动漫电影",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/DMDY.png"
     },
     {
-      "name" : "VOD",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/VOD.png"
+      "name": "VOD",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/VOD.png"
     },
     {
-      "name" : "韩剧",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/hanju.png"
+      "name": "韩剧",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/hanju.png"
     },
     {
-      "name" : "美剧",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/meiju.png"
+      "name": "美剧",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/meiju.png"
     },
     {
-      "name" : "日韩",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/rihan.png"
+      "name": "日韩",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/rihan.png"
     },
     {
-      "name" : "欧美",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/oumei.png"
+      "name": "欧美",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/oumei.png"
     },
     {
-      "name" : "麻豆传媒",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/madou.png"
+      "name": "麻豆传媒",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/madou.png"
     },
     {
-      "name" : "大陆剧",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/daluju.png"
+      "name": "大陆剧",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/daluju.png"
     },
     {
-      "name" : "大陆",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/dalu.png"
+      "name": "大陆",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/dalu.png"
+    },
+    {
+      "name": "PornHub",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/PornHub.png"
+    },
+    {
+      "name": "xViedos",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/xVideos.png"
+    },
+    {
+      "name": "Hanime1",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/Hanime1.png"
+    },
+    {
+      "name": "Missav",
+      "url": "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/Missav.png"
     }
-    {
-      "name" : "PornHub",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/PornHub.png"
-    }
-    {
-      "name" : "xViedos",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/xVideos.png"
-    }
-    {
-      "name" : "Hanime1",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/Hanime1.png"
-    }
-    {
-      "name" : "Missav",
-      "url" : "https://raw.githubusercontent.com/Tlomlgm/Icon/main/Forwrad.Icon/Missav.png"
-    }
-  ],
-  "name" : "G.m"
+  ]
 }
